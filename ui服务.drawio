@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T05:38:21.166Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="oh_of7MjaGvfvEgJOfeY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T07:06:19.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="JIGYMyG_ju1By8dNeFR8" type="github">
   <diagram id="6CywUYdzfx6pyuz3keM9" name="第 1 页">
     <mxGraphModel dx="1426" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,8 +39,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md3witNqOyMrATEKd-Y4-72" value="提供模版&lt;font color=&quot;#ff3333&quot;&gt;？&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Md3witNqOyMrATEKd-Y4-71">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Md3witNqOyMrATEKd-Y4-72" value="提供模版" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Md3witNqOyMrATEKd-Y4-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Md3witNqOyMrATEKd-Y4-73" value="配置json" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
@@ -57,13 +59,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md3witNqOyMrATEKd-Y4-78" value="&lt;font color=&quot;#000000&quot;&gt;提供模版&lt;/font&gt;？" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#FF3333;" connectable="0" vertex="1" parent="Md3witNqOyMrATEKd-Y4-77">
+        <mxCell id="Md3witNqOyMrATEKd-Y4-78" value="&lt;font color=&quot;#000000&quot;&gt;提供模版&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#FF3333;" connectable="0" vertex="1" parent="Md3witNqOyMrATEKd-Y4-77">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md3witNqOyMrATEKd-Y4-81" value="提供页面和组件配置信息&lt;br&gt;组件是否动态生成信息" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Md3witNqOyMrATEKd-Y4-73">
-          <mxGeometry x="-0.5882" y="20" relative="1" as="geometry">
+        <mxCell id="Md3witNqOyMrATEKd-Y4-81" value="提供页面和组件配置信息" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Md3witNqOyMrATEKd-Y4-73">
+          <mxGeometry x="-0.1765" relative="1" as="geometry">
             <mxPoint x="430" y="350" as="sourcePoint" />
             <mxPoint x="500" y="290" as="targetPoint" />
             <mxPoint as="offset" />
@@ -86,6 +88,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-90" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Md3witNqOyMrATEKd-Y4-96" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Md3witNqOyMrATEKd-Y4-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="sourcePoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Md3witNqOyMrATEKd-Y4-97" value="组件是否动态生成信息" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#000000;" connectable="0" vertex="1" parent="Md3witNqOyMrATEKd-Y4-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
