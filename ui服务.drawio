@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T10:38:14.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="FXozNkbVNDSzVXErgzVE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T10:45:38.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="PZrkVk_6ZPYnoYtbLCEa" type="github">
   <diagram id="6CywUYdzfx6pyuz3keM9" name="第 1 页">
     <mxGraphModel dx="1426" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         </mxCell>
         <mxCell id="Md3witNqOyMrATEKd-Y4-85" value="提供组件" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#000000;" connectable="0" vertex="1" parent="Md3witNqOyMrATEKd-Y4-84">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-90" as="offset" />
+            <mxPoint x="-70" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Md3witNqOyMrATEKd-Y4-99" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="Md3witNqOyMrATEKd-Y4-105" value="运行态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Md3witNqOyMrATEKd-Y4-107" value="&lt;h1&gt;任务：&lt;/h1&gt;&lt;div&gt;1. 修改原模版&lt;/div&gt;&lt;p&gt;2. 提供模版可配置区域的list&lt;/p&gt;&lt;p&gt;3. 提供区域动态组件lowcode-ui&lt;/p&gt;&lt;p&gt;4. 模版内添加动态加载方法&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;5. 示例图展示问题&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="300" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
