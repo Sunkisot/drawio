@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T02:39:24.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="nOz11-V7iepPy1ejkaVp" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T03:28:50.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="ISu6K9hTGElcoMa5Hne0" type="github">
   <diagram id="6CywUYdzfx6pyuz3keM9" name="第 1 页">
     <mxGraphModel dx="1426" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
             <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md3witNqOyMrATEKd-Y4-100" value="整理返回:&lt;br&gt;模版配置信息&lt;br&gt;接口信息&lt;br&gt;namespace" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#000000;" connectable="0" vertex="1" parent="Md3witNqOyMrATEKd-Y4-99">
+        <mxCell id="Md3witNqOyMrATEKd-Y4-100" value="整理返回:&lt;br&gt;模版配置区域信息&lt;br&gt;接口信息&lt;br&gt;namespace" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#000000;" connectable="0" vertex="1" parent="Md3witNqOyMrATEKd-Y4-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Md3witNqOyMrATEKd-Y4-103" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;模版配置信息&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
